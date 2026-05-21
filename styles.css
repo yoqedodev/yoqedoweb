@@ -80,3 +80,8 @@ p {
 .cardHeaderDesc {
     padding-left: 10px;
 }
+
+footer {
+    position: fixed;
+    bottom: 20px;
+}
