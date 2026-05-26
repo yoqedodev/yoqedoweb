@@ -13,7 +13,7 @@ body {
     padding: 20px;
     background: #fff;
     border-radius: 12px;
-    border: solid rgb(234, 234, 234) 1px;
+    border: solid rgb(252, 252, 252) 1px;
 }
 
 .cardHeader {
@@ -84,4 +84,7 @@ p {
 footer {
     position: fixed;
     bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
